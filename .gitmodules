@@ -1,0 +1,3 @@
+[submodule "themes/blackwhite"]
+	path = themes/blackwhite
+	url = https://github.com/runningstream/hugograyscale.git
