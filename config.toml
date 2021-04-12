@@ -1,4 +1,4 @@
-baseURL = "https://safemonkeymoon.org/"
+baseURL = "https://pedantic-franklin-8a31e0.netlify.app"
 languageCode = "en-us"
 title = "My New Hugo Site"
 
